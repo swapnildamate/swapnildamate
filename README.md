@@ -1,9 +1,9 @@
-# Hi there 👋
+# Hi there 👋 
 I'm **Swapnil Damate**, a passionate **Software Tester** with expertise in **Manual Testing**, **Automation Testing**, **API Testing**, and **Database Testing**. I specialize in ensuring the reliability and functionality of applications by thoroughly testing every aspect of the software.
 
 
 # Connect With Me 📫
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-damate) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/swapnildamate) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnildamate@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-damate) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/swapnildamate) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnildamate@gmail.com)
 
 
 # Cetifications 🏆
@@ -46,3 +46,5 @@ I'm **Swapnil Damate**, a passionate **Software Tester** with expertise in **Man
   - Passionate about learning new tech  - Passionate about learning new technologies and improving testing skills.ng complex bugs and challenges like puzzles!  
 - ⚡ **Fun fact:** 
   - I enjoy solving complex bugs and challenges like puzzles!
+    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnildamate&label=Profile%20views&color=0e75b6&style=flat" alt="swapnildamate" /> </p> 
