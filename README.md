@@ -43,8 +43,6 @@ I'm **Swapnil Damate**, a passionate **Software Tester** with expertise in **Man
 # About Me 🤗
 - 💬 **Interest:** 
   - Love to explore new places, watch movies, and read books.  
-  - Passionate about learning new tech  - Passionate about learning new technologies and improving testing skills.ng complex bugs and challenges like puzzles!  
-- ⚡ **Fun fact:** 
-  - I enjoy solving complex bugs and challenges like puzzles!
+  - Passionate about learning new tech  - Passionate about learning new technologies and improving testing skills.
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnildamate&label=Profile%20views&color=0e75b6&style=flat" alt="swapnildamate" /> </p> 
