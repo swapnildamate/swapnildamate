@@ -1,8 +1,7 @@
 # Hi there 👋
 
-> I'm **Swapnil Damate**, a passionate **Software Tester** with expertise in **Manual Testing**, **Automation Testing
-**, *
-*API Testing**, and **Database Testing**. I specialize in ensuring the reliability and functionality of applications by
+> I'm **Swapnil Damate**, a passionate **Software Tester** with expertise in **Manual Testing**, **Automation Testing**, 
+**API Testing**, and **Database Testing**. I specialize in ensuring the reliability and functionality of applications by
 > thoroughly testing every aspect of the software.
 
 ---
@@ -69,10 +68,9 @@
 
 # 🤗About Me
 
-> - 💬 **Interest:**
-    - Love to explore new places, watch movies, and read books.
-    - Passionate about learning new tech - Passionate about learning new technologies and improving testing skills.
+> - Love to explore new places, watch movies, and read books.
+> - Passionate about learning new technologies and improving testing skills.
 
 ---
 
-> <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnildamate&label=Profile%20views&color=0e75b6&style=flat" alt="swapnildamate" /> </p> 
+> <p   ="left"> <img src="https://komarev.com/ghpvc/?username=swapnildamate&label=Profile%20views&color=0e75b6&style=flat" alt="swapnildamate" /> </p> 
