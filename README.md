@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋Hi there
 
 > I'm **Swapnil Damate**, a passionate **Software Tester** with expertise in **Manual Testing**, **Automation Testing**, 
 **API Testing**, and **Database Testing**. I specialize in ensuring the reliability and functionality of applications by
@@ -6,7 +6,7 @@
 
 ---
 
-# Connect With Me 📫
+# 📫Connect With Me
 
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-damate) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/swapnildamate) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnildamate@gmail.com)
 
@@ -51,12 +51,11 @@
 
 #### 🎯Soft Skills
 
-> - ![Problem-solving](https://img.shields.io/badge/-Problem--solving-007ACC?logo=visual-studio-code&logoColor=white)
-    Problem-solving and critical thinking
-> - ![Collaboration](https://img.shields.io/badge/-Collaboration-007ACC?logo=teams&logoColor=white) Collaboration and
-    communication
-> - ![Leadership](https://img.shields.io/badge/-Leadership-007ACC?logo=teams&logoColor=white) Leadership in test team
-    coordination
+
+>  ![Leadership](https://img.shields.io/badge/-Leadership-007ACC?logo=teams&logoColor=white)
+>  ![Problem-solving](https://img.shields.io/badge/-Problem--Solving-007ACC?logo=visual-studio-code&logoColor=white)
+>  ![Critical Thinking](https://img.shields.io/badge/-Critical--Thinking-007ACC?logo=visual-studio-code&logoColor=white)
+>  ![Collaboration](https://img.shields.io/badge/-Collaboration-007ACC?logo=teams&logoColor=white)
 
 ---
 
