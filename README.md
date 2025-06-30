@@ -7,9 +7,11 @@ thoroughly testing every aspect of the software.
 ---
 
 # 🏆Cetifications
-- ![Static Badge](https://img.shields.io/badge/ISTQB_Certified_Tester-Foundation_Level-black) 
-- ![Static Badge](https://img.shields.io/badge/Git_Hub-Foundation_Level-black)
-- ![Static Badge](https://img.shields.io/badge/Git_Hub-Copilot-black)
+
+- ![Static Badge](https://img.shields.io/badge/ISTQB_Certified_Tester-Foundation_Level-43B02A) 
+- ![Static Badge](https://img.shields.io/badge/Git_Hub-Foundation_Level-43B02A)
+- ![Static Badge](https://img.shields.io/badge/Git_Hub-Copilot-43B02A)
+ 
 ### Naviage to [📜View Certificates](certificate.md)
 
 ---
