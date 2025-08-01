@@ -1,6 +1,5 @@
 > # 👋Hi there
->> I'm **Swapnil Damate**, a passionate **Software Tester** with expertise in **Manual Testing**, **Automation Testing
-**,
+>> I'm **Swapnil Damate**, a passionate **Software Tester** with expertise in **Manual Testing**, **Automation Testing**,
 **API Testing**, and **Database Testing**. I specialize in ensuring the reliability and functionality of applications by
 > > thoroughly testing every aspect of the software.
 >---
