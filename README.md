@@ -47,7 +47,8 @@
 >>>>![Collaboration](https://img.shields.io/badge/-Collaboration-007ACC?logo=teams&logoColor=white)
 >---
 >># 📈GitHub Stats
->><p ><img src="https://github-readme-stats.vercel.app/api?username=swapnildamate&show_icons=true&theme=white" height="170" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnildamate&layout=compact&theme=white" height="170" /></p>
+>><p ><img src="https://github-readme-stats.vercel.app/api?username=swapnildamate&show_icons=true&theme=white" height="170" /></p>
+>><p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnildamate&layout=compact&theme=white" height="170" /></p>
 >---
 >># 🤗About Me
 >>
